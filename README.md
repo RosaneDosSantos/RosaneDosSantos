@@ -45,6 +45,5 @@ Professional website developed for a UK landscaping company.
 ## 📫 Connect with Me
 
 💼 LinkedIn: www.linkedin.com/in/rosane-dos-santos12
-🌐 Portfolio *(coming soon)*
 
 🌐 Portfolio *(coming soon)*
